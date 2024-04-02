@@ -1,0 +1,22 @@
+.customNav{
+    background-color: #912BBC;
+}
+
+.customTitle{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.navbar-toggler{
+    border: 2px solid white !important;
+}
+
+.registerContainer{
+    min-height: 80vh;
+}
+
+.registerForm{
+    border: 1px solid rgba(0, 0, 0, 0.173);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
